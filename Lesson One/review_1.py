@@ -32,3 +32,8 @@ print(f"{x} times {y} equals {x*y}")
 #7
 x, y = 20, 4
 print(f"{x} divided by {y} equals {x / 4}")
+
+#Bonus
+name = input("What is your name? \n")
+color = input("What is your favorite color? \n")
+print(f"Hi {name}, your favorite color is {color}!")
