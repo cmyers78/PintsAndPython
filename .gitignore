@@ -1,0 +1,13 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Virtual environments
+venv/
+.env/
